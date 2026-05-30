@@ -1,10 +1,10 @@
-# Study
+﻿# Study
 
 Study 是一个本地学习项目工作区，用来整理学习工具、练习项目、Firebase 设定与后续可发布的网页内容。
 
 ## 工作模式
 
-- 本地工作目录：`C:\Users\Yan\Documents\New project 3`
+- 本地工作目录：`D:\database\open project`
 - Obsidian 驾驶舱：`D:\obsidian\yan\Study\专案工作流程.md`
 - GitHub：`https://github.com/Yanyan8087/Study`
 - GitHub Pages：`https://yanyan8087.github.io/Study/`
@@ -28,3 +28,4 @@ Firebase Hosting 目前使用：
 - 开始工作时说：`开工`
 - 结束工作时说：`收工`
 - 新项目初始化时说：`新项目初始化`
+

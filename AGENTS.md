@@ -1,10 +1,10 @@
-# Study - AGENTS.md
+﻿# Study - AGENTS.md
 
 ## 项目入口
 
 项目名称：Study
 项目用途：学习
-主要工作目录：C:\Users\Yan\Documents\New project 3
+主要工作目录：D:\database\open project
 GitHub repo：https://github.com/Yanyan8087/Study
 默认 branch：main
 
@@ -18,7 +18,7 @@ Obsidian vault：D:\obsidian\yan
 
 ## 工作桌 + 三个家
 
-- 工作桌：C:\Users\Yan\Documents\New project 3
+- 工作桌：D:\database\open project
 - GitHub：https://github.com/Yanyan8087/Study，公开 repo，启用 GitHub Pages
 - Obsidian：D:\obsidian\yan + Study\专案工作流程.md
 - Firebase：study-94c9b
@@ -65,3 +65,4 @@ Obsidian vault：D:\obsidian\yan
 - 不要把 API key、token、密码、凭证写进 repo
 - 不要储存学生真实姓名；正式资料只用座号、班级或代号
 - 不要把本机 Codex 设定目录提交到 Git
+

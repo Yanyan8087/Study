@@ -7,7 +7,7 @@ Study 是一个本地学习项目工作区，用来整理学习工具、练习�
 - 本地工作目录：`C:\Users\Yan\Documents\New project 3`
 - Obsidian 驾驶舱：`D:\obsidian\yan\Study\专案工作流程.md`
 - GitHub：`https://github.com/Yanyan8087/Study`
-- GitHub Pages：计划使用 `main` 分支根目录，根入口会跳转到 `wordcloud/`
+- GitHub Pages：`https://yanyan8087.github.io/Study/`
 - Firebase：已配置项目 `study-94c9b`
 
 ## 当前部署设定

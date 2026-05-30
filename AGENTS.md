@@ -56,7 +56,7 @@ Obsidian vault：D:\obsidian\yan
 
 部署位置：
 - Firebase Hosting public：wordcloud
-- GitHub Pages：待建立 repo 后设定
+- GitHub Pages：https://yanyan8087.github.io/Study/
 
 ## 不要做
 

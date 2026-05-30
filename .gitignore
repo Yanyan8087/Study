@@ -1,0 +1,28 @@
+# System files
+desktop.ini
+Thumbs.db
+.DS_Store
+*.tmp
+~$*
+
+# Sensitive data
+.env
+.env.*
+*.key
+credentials.*
+secrets.*
+
+# Local AI agent settings
+.claude/
+.codex/
+
+# Node.js
+node_modules/
+
+# Build outputs
+dist/
+build/
+.cache/
+
+# Local browser/profile artifacts
+.codex-chrome-profile/

@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>课堂即时文字云</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <main class="app-shell">
+    <section class="submit-panel" aria-label="学生提交">
+      <div class="brand-row">
+        <div>
+          <p class="eyebrow">Live Classroom</p>
+          <h1>课堂即时文字云</h1>
+        </div>
+        <span id="connectionState" class="state-pill">连接中</span>
+      </div>
+
+      <form id="wordForm" class="word-form">
+        <label for="wordInput">输入关键词</label>
+        <div class="input-row">
+          <input id="wordInput" name="word" type="text" maxlength="24" autocomplete="off" placeholder="例如：好奇">
+          <button type="submit">送出</button>
+        </div>
+      </form>
+
+      <div class="quick-row" aria-label="快速词语">
+        <button type="button" data-word="好奇">好奇</button>
+        <button type="button" data-word="理解">理解</button>
+        <button type="button" data-word="合作">合作</button>
+        <button type="button" data-word="挑战">挑战</button>
+      </div>
+
+      <div class="stats-grid">
+        <div>
+          <span id="totalCount">0</span>
+          <p>总提交</p>
+        </div>
+        <div>
+          <span id="uniqueCount">0</span>
+          <p>不同词</p>
+        </div>
+        <div>
+          <span id="topWord">-</span>
+          <p>最高频</p>
+        </div>
+      </div>
+
+      <div class="teacher-tools">
+        <button id="lockButton" type="button">锁定提交</button>
+        <button id="exportButton" type="button">导出 CSV</button>
+        <button id="clearButton" type="button" class="danger">清空</button>
+      </div>
+    </section>
+
+    <section class="cloud-stage" aria-label="即时文字云">
+      <div id="cloud" class="cloud" aria-live="polite"></div>
+      <div id="emptyState" class="empty-state">等待第一笔回应</div>
+    </section>
+  </main>
+
+  <script type="module" src="./app.js"></script>
+</body>
+</html>

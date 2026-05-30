@@ -5,7 +5,7 @@
 项目名称：Study
 项目用途：学习
 主要工作目录：C:\Users\Yan\Documents\New project 3
-GitHub repo：待建立，计划公开
+GitHub repo：https://github.com/Yanyan8087/Study
 默认 branch：main
 
 ## Obsidian 对应笔记
@@ -19,7 +19,7 @@ Obsidian vault：D:\obsidian\yan
 ## 工作桌 + 三个家
 
 - 工作桌：C:\Users\Yan\Documents\New project 3
-- GitHub：公开 repo，启用 GitHub Pages；创建后补上 URL
+- GitHub：https://github.com/Yanyan8087/Study，公开 repo，启用 GitHub Pages
 - Obsidian：D:\obsidian\yan + Study\专案工作流程.md
 - Firebase：study-94c9b
 

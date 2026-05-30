@@ -24,5 +24,11 @@ dist/
 build/
 .cache/
 
+# Firebase local cache
+.firebase/
+
 # Local browser/profile artifacts
 .codex-chrome-profile/
+
+# Windows shortcuts
+*.lnk
